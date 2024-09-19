@@ -38,11 +38,4 @@ This is a page where users can see all their personal information, like contact 
 With this, users can add pins to their favourite places.<br><br>
 ![Add Pin](https://user-images.githubusercontent.com/82212464/201489074-e91bebf6-6365-4bd8-be8f-7a0eaea0f5e8.jpeg)
 
-#
-**Setting Up the Project**<br><br>
 
-**1. Clone the repo**<br>
-
-**2. Instal npm using command**<br>
-
-**3. Start npm**<br>
